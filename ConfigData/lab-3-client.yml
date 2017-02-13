@@ -1,2 +1,3 @@
 ---
 lucky-word: Nikolay,Rabit,Irish,NewLucky
+myHome: ${HOME}
